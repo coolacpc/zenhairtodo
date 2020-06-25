@@ -11,12 +11,17 @@ body,
 html,
 #root {
   height: 100%;
+  background-color: #c3c3c3;
 }
 
 .todo-form {
   display: flex;
   flex-direction: row;
   align-items: center;
+}
+
+.colorv1 {
+  color: #616161;
 }
 
 li {

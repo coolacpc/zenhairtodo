@@ -45,7 +45,7 @@ function App() {
 
   return (
     <div className="App">
-      <Typography style={{ padding: 16 }} variant="h1">
+      <Typography className="colorv1" style={{ padding: 16 }} variant="h1">
         ZenHairStaff Todo List
       </Typography>
       <TodoForm addTodo={addTodo} />
