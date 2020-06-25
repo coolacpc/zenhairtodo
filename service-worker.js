@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/zenhairtodo/precache-manifest.ba4da58626159f447778fc1f2e0d64f7.js"
+  "/zenhairtodo/precache-manifest.1d323d23fccab6f5842b4fe994aec6cc.js"
 );
 
 self.addEventListener('message', (event) => {
