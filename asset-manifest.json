@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/zenhairtodo/static/css/main.5f361e03.chunk.css",
+    "main.js": "/zenhairtodo/static/js/main.eba6a562.chunk.js",
+    "main.js.map": "/zenhairtodo/static/js/main.eba6a562.chunk.js.map",
+    "runtime-main.js": "/zenhairtodo/static/js/runtime-main.85582e37.js",
+    "runtime-main.js.map": "/zenhairtodo/static/js/runtime-main.85582e37.js.map",
+    "static/js/2.3cd4b3b5.chunk.js": "/zenhairtodo/static/js/2.3cd4b3b5.chunk.js",
+    "static/js/2.3cd4b3b5.chunk.js.map": "/zenhairtodo/static/js/2.3cd4b3b5.chunk.js.map",
+    "index.html": "/zenhairtodo/index.html",
+    "precache-manifest.49863b6f773311449a8f5b46019a4249.js": "/zenhairtodo/precache-manifest.49863b6f773311449a8f5b46019a4249.js",
+    "service-worker.js": "/zenhairtodo/service-worker.js",
+    "static/css/main.5f361e03.chunk.css.map": "/zenhairtodo/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.3cd4b3b5.chunk.js.LICENSE.txt": "/zenhairtodo/static/js/2.3cd4b3b5.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.85582e37.js",
+    "static/js/2.3cd4b3b5.chunk.js",
+    "static/css/main.5f361e03.chunk.css",
+    "static/js/main.eba6a562.chunk.js"
+  ]
+}
